@@ -1,6 +1,6 @@
-# formus
+# Teste prático da Formus Digital
 
-A new Flutter project.
+O teste consiste em fazer uma requisição api com o intuito de obter os filmes mais assistidos dos EUA, atentando a pegar informaões imprtantes como title do filme, descrição, poster, dentre outros que evidencie conhecimento e prática no desenvolvimento mobile. Desenvolvi o app com 4 features: Upcoming, popular(este é o do desafio), search e details.
 
 ## Getting Started
 
